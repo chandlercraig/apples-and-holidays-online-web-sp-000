@@ -93,5 +93,5 @@ holiday_hash.each do |season, hol_hash|
     end
   end
 end
-
+ return new_arr
 end
