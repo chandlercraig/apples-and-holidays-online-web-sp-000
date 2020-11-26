@@ -93,5 +93,5 @@ new_arr << hol
 end
 end
 end
-return new_arr
+new_arr
 end
