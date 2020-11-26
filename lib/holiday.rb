@@ -79,6 +79,7 @@ hol_hash.each do |hol, items_arr|
   puts "  #{hol.capitalize}: #{items_arr}"
 end
 end
+end
 
 def all_holidays_with_bbq(holiday_hash)
   # return an array of holiday names (as symbols) where supply lists
